@@ -1,0 +1,19 @@
+# Ignore data
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter cache
+.ipynb_checkpoints/
+
+# Model files
+*.pkl
+
+# Virtual environments
+venv/
+.venv/
+
+# macOS metadata
+.DS_Store
